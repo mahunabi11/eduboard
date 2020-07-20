@@ -32,7 +32,7 @@ abstract class Database;
  	
  }
 
-
+ echo password_hash('admin', PASSWORD_DEFAULT);
 
 
 ?>
