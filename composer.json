@@ -1,0 +1,19 @@
+{
+    "name": "mahunabi11/eduboard",
+    "description": "This is a learning purpose of Eduboard system'",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rohan John",
+            "email": "mahunabi@gmail.com"
+        }
+    ],
+
+    "autoload" : {
+        "psr-4" : {
+            "Edu\\Board\\" : "apps\\"
+        }
+    },
+    "require": {}
+}
